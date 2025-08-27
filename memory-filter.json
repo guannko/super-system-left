@@ -1,0 +1,11 @@
+{
+  "filter": "left-cortex",
+  "version": "1.0",
+  "input": "raw-brain/",
+  "output": "filtered/",
+  "rules": [
+    "remove_duplicates",
+    "organize_by_date",
+    "extract_important"
+  ]
+}
