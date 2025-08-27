@@ -1,0 +1,11 @@
+{
+  "hemisphere": "left",
+  "type": "AI/Creative",
+  "status": "operational",
+  "projects": {
+    "annoris": {
+      "status": "development",
+      "priority": 2
+    }
+  }
+}
