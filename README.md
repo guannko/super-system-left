@@ -1,14 +1,32 @@
-# 🧠 SUPER SYSTEM LEFT HEMISPHERE
+# 🧠 SUPER SYSTEM LEFT - AI CORTEX
+**Version:** 2.0.0
+**Updated:** 2025-09-02
+**Status:** 🟢 OPERATIONAL
+**Role:** AI Processing & Creative Enhancement
 
-> AI & Creative Center
+## 🎯 PURPOSE
+LEFT CORTEX усиливает и фильтрует AI-related информацию для Annoris (raw AI memory).
 
-## 🎯 Описание
-**super-system-left** - левое полушарие SUPER SYSTEM:
-- 🤖 AI алгоритмы
-- 🎨 Творческие решения
-- 💡 Инновации
+## 🔗 CONNECTIONS
+- **Input:** super-system-eyes (coordination)
+- **Output:** Annoris (raw AI data storage)
+- **Integration:** Cursor, Claude, ChatGPT
 
-## 🏗️ Проект: ANNORIS
-- Brain-as-a-Service Platform
-- Target: $200K+/месяц
-- Status: Development
+## 📊 CURRENT STATE
+- **Last sync:** 2025-09-02
+- **Memory usage:** Growing (normal)
+- **Autosaves:** Active in Annoris
+
+## 🔧 RECENT ACTIVITY
+- Deep Think Analysis for OffersPSP
+- Real-time Payments Tracking architecture
+- User Journey Mapping
+- Hybrid MVP recommendations
+
+## 🚀 NEXT TASKS
+- [ ] Fix Annoris Railway build
+- [ ] Optimize AI memory structure
+- [ ] Implement better filtering
+
+---
+*LEFT CORTEX - AI Enhancement Layer*
